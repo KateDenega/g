@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kate Denega
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
